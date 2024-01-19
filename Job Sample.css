@@ -1,0 +1,78 @@
+body {
+    color: #232902;
+    background-color: rgb(204, 209, 248);
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h2 {
+    color:  #232902;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #032020 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+style
+.zoom {
+    padding: 100px;
+    transition: .2s;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.zoom:hover {
+    transform: scale(1.5);
+}
+
+style
+.Loom {
+    padding: 100px;
+    transition: .2s;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.Loom:hover {
+    transform: scale(1.5);
+}
+
+.Multi-National-Corporation {
+    margin: 50px;
+}
+
+.Free-Styling {
+    margin-bottom: 50px;
+}
+.Bottom-Container {
+    background-color: #7895f3;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: #11999e;
+    font-family: Verdana, sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+ }
+
+a:hover {
+    color: #eaf6f6;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
